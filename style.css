@@ -1,0 +1,68 @@
+.h1_color{
+    color:palevioletred;
+    font-weight: bold;
+ }
+
+h1 {
+font-size: 3em;
+background-color:lightgray;
+margin: 10px;
+padding: 10px;
+}
+h1 {
+font-family:monospace;
+}
+
+.h2_color{
+    color:cornflowerblue;
+}
+
+h2 {
+font-size: 1.5em;
+background-color:lightgrey;
+margin: 10px;
+padding: 10px;
+}
+
+h2 {
+font-family:monospace;
+}
+
+.h3_color{
+    color:cornflowerblue;
+}
+ 
+h3{
+font-size: 1.5em;
+background-color:lightgray;
+margin: 10px;
+padding: 10px;
+}
+h3 {
+font-family:monospace;
+}
+
+ul {
+font:15px Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color:black;
+}
+
+p {font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.firstP {
+    color: green;
+}
+
+
+
+
+body {
+/* background-image: url("background-artwork.jpg"); */
+    height: 100vh;
+} 
+
+.background {
+    background-image: url("./background-artwork.jpg")
+}
